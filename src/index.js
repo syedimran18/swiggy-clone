@@ -4,8 +4,9 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import { BrowserRouter as Router } from "react-router-dom";
+
 // import Next from "next.js"
-// import this dir from "this directory dose not exist"
+import this dir from "this directory dose not exist"
 // this is a known error 
 
 ReactDOM.render(
